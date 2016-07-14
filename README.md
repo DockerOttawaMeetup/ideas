@@ -4,4 +4,4 @@
 
 ## How to use this repo
 
-Use the [issue tracker](./issues) to suggest and vote on what you'd like to experience at the [Docker Ottawa Meetup](http://meetup.com/Docker-Ottawa/).
+Use the [issue tracker](https://github.com/DockerOttawaMeetup/ideas/issues) to suggest and vote on what you'd like to experience at the [Docker Ottawa Meetup](http://meetup.com/Docker-Ottawa/).

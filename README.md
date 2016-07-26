@@ -1,5 +1,5 @@
 # Docker Ottawa Meetup Ideas
-
+![Ottawa Docker Meetup Logo](https://github.com/DockerOttawaMeetup/Slides/blob/master/ottawa-docker-logo.jpg?raw=true)
 > A place to track ideas for talks, demos, workshops, to do at the Docker Ottawa meetup!
 
 ## How to use this repo
